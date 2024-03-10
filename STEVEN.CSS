@@ -67,7 +67,7 @@ p{
     margin-right: 0px;
 }
 .conteiner{
-    position:-webkit-sticky
+    position:-webkit-sticky;
     top:600px;
     bottom:300px;
 
